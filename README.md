@@ -16,6 +16,10 @@
 
 **Position Title:** Student
 
-**Course Webpage:** cdslab.org
+**Course Webpage:** [IDS2024S](cdslab.org/IDS2024S)
+
+Photo:  ![image](https://github.com/Bigsimtrap/IDS2024S/assets/157654735/8bf7fcd9-3591-4487-9e33-d085b7dd4124)
+]
+
 
 

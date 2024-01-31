@@ -8,7 +8,7 @@
 
 **Email**: sds3807@mavs.uta.edu
 
-**Department:**  of Science
+**Department:** Science
 
 **University:** The University of University of Texas at Arlington
 

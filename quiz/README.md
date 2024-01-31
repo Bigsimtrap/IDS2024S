@@ -1,1 +1,1 @@
-Tis page contains all of my quiz submissions
+This folder contains all of my quiz submissions

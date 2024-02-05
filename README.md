@@ -10,7 +10,7 @@
 
 **Department:** Science
 
-**University:** The University of University of Texas at Arlington
+**University:** The University of University of Texas at Arlington 
 
 **Level:** undergraduate - Sophomore (2nd year) 
 
@@ -36,5 +36,5 @@ Simeon Smith
 sds3807@mavs.uta.edu
 simeonsmith817@email.com
 
-> I have not failed. I am a BOSS
+> Education rules a nation
 

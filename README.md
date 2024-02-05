@@ -36,3 +36,5 @@ Simeon Smith
 sds3807@mavs.uta.edu
 simeonsmith817@email.com
 
+> I have not failed. I am a BOSS
+

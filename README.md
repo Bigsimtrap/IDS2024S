@@ -36,5 +36,6 @@ Simeon Smith
 sds3807@mavs.uta.edu
 simeonsmith817@email.com
 
-> Education rules a nation
+> I have not failed. I have just found 1000 ways that won't work.
+>   Thomas Eddison
 

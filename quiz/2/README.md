@@ -1,4 +1,4 @@
-1. Cache is the fastes
+1. RAM is the fastest component of computer memory
 2. A modern computer is composed of a hierarchy because it allows the CPU to predict and prefetch the future data from the slow and larger levels to the higher but smaller levelsfor usage by the CPU for computations.
 3. Disk is the slowest kind of computer storage device.
 4. Disk, DRAM, L3 cache, L2 cache, L1 cache, Registers
